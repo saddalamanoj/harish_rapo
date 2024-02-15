@@ -1,1 +1,5 @@
-print("Hello Madhu Mohan")
+class Main{
+ public static void main(String[]) args){
+	System.out.println("Hello Madhu Mohan, im in your file")
+}
+}
